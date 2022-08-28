@@ -10,3 +10,6 @@ https://msbtenews.com/digital-techniques-mcq-pdf-diploma/
 
 C Language Book
 https://www.unf.edu/~wkloster/2220/ppts/cprogramming_tutorial.pdf
+
+C++ Language Book
+https://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf
